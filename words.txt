@@ -1,0 +1,9 @@
+This
+is a text document
+with some words.
+
+Apple
+Aardvark
+Castle
+...
+git add word
